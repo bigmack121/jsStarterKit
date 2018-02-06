@@ -1,7 +1,5 @@
 
 environment:
-	matrix:
-	# node.js
 	nodejs_version: "8"
 
 install:
