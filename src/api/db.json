@@ -1,1 +1,46 @@
-{"users":[{"id":22422086,"firstName":"Webster","lastName":"Kohler","email":"Damien.Nikolaus82@yahoo.com"},{"id":83994003,"firstName":"Ansel","lastName":"Kutch","email":"Samanta.Mante61@yahoo.com"},{"id":89768827,"firstName":"Amari","lastName":"Spinka","email":"Vidal.Bechtelar25@yahoo.com"},{"id":83160908,"firstName":"Liza","lastName":"Spinka","email":"Isac34@yahoo.com"},{"id":8717858,"firstName":"Sophia","lastName":"Beatty","email":"Valentin68@yahoo.com"},{"id":7906193,"firstName":"Bailey","lastName":"Frami","email":"Georgette75@hotmail.com"},{"id":69022054,"firstName":"Amelie","lastName":"Hintz","email":"Melody.Koss22@hotmail.com"},{"id":52147080,"firstName":"Arvilla","lastName":"Kozey","email":"Maude_Vandervort@hotmail.com"},{"id":95214988,"firstName":"Ezekiel","lastName":"Schoen","email":"Lizeth_Von@gmail.com"}]}
+{
+  "users": [
+    {
+      "id": 22422086,
+      "firstName": "Webster",
+      "lastName": "Kohler",
+      "email": "Damien.Nikolaus82@yahoo.com"
+    },
+    {
+      "id": 89768827,
+      "firstName": "Amari",
+      "lastName": "Spinka",
+      "email": "Vidal.Bechtelar25@yahoo.com"
+    },
+    {
+      "id": 83160908,
+      "firstName": "Liza",
+      "lastName": "Spinka",
+      "email": "Isac34@yahoo.com"
+    },
+    {
+      "id": 8717858,
+      "firstName": "Sophia",
+      "lastName": "Beatty",
+      "email": "Valentin68@yahoo.com"
+    },
+    {
+      "id": 7906193,
+      "firstName": "Bailey",
+      "lastName": "Frami",
+      "email": "Georgette75@hotmail.com"
+    },
+    {
+      "id": 69022054,
+      "firstName": "Amelie",
+      "lastName": "Hintz",
+      "email": "Melody.Koss22@hotmail.com"
+    },
+    {
+      "id": 95214988,
+      "firstName": "Ezekiel",
+      "lastName": "Schoen",
+      "email": "Lizeth_Von@gmail.com"
+    }
+  ]
+}
